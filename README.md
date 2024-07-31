@@ -9,6 +9,19 @@ Foundations
 - Hands-on practice with OpenAI APIs for model configurations
 - Prompt engineering
 
+Building a ChatGPT API apps
+- Integrating AI with Web Development
+- Fontend generation and deploying LLM models
 
+Advanced AI Techniques
+- GPT fine-tuning
+- Retriever-Augmented Generation (RAG) technique
+- Integration of multiple AI model integration for enhanced functionality
+  
+LLMs for Image
+- Diffusion models for image generation/processing techniques
+- Performance optimization techniques like control meshes.
 
-
+Llama 2
+- Introduction to Llama 2
+- Step-by-step guide to using Llama 2 
